@@ -1,6 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
+<h3 class="text-center">Sample Git</h3>
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
